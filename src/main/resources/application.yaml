@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/expensesdb?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+    username: gastos_user
+    password: contrasena_gastos
+  jpa:
+    hibernate:
+      ddl-auto: update   # crea/actualiza las tablas automáticamente
+    show-sql: true        # para ver las consultas SQL en consola
+
+server:
+  port: 8080              # Puerto de la API
