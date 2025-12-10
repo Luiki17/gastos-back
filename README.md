@@ -5,7 +5,7 @@ Permite crear, listar y filtrar gastos por mes y año, devolviendo la informaci�
 
 🚀 Tecnologías utilizadas
 
-- Java 17
+- Java 21
 - Spring Boot
 - Spring Web
 - Spring Data JPA
