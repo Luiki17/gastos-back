@@ -16,11 +16,17 @@ Permite crear, listar y filtrar gastos por mes y año, devolviendo la informaci�
 📌 Funcionalidades
 
 ✅ Crear gastos
+
 ✅ Listar todos los gastos
+
 ✅ Filtrar gastos por mes y año
+
 ✅ Cálculo del total mensual
+
 ✅ Arquitectura en capas (Controller · Service · Repository)
+
 ✅ Uso de DTOs para exponer la API
+
 ✅ Validación y manejo correcto de fechas
 
 📂 Estructura del proyecto
